@@ -1,0 +1,34 @@
+Projeto ESCREVIVENCIAS
+
+	GERENTE
+		Lider
+		trafegar por entre as outras areas
+		organizador
+		Supervisão
+
+	JORNALISTA
+		Curadores
+		Redação e Publicação 
+			texto, som, imagem ou vídeo
+		Olhar atento e avaliativo
+		Revisor de conteúdos
+
+	DESIGN
+		Identidade Visual
+		Paleta de Cores
+		Disposição das informações no portal
+		Padronização Visual
+			Titulos
+			Caixas de Texto
+			Anotações
+			Imagens
+	PROGRAMADOR
+		Implementação do Portal
+			definição dos dados
+			banco de dados
+			arquivos do portal
+			Servidores
+			HTML - CSS
+
+
+

@@ -1,0 +1,34 @@
+Projeto Escrevivencias
+
+	BANCO DE DADOS
+		USUARIOS
+			ID_USER
+			NOME
+			TIPO_ACESSO
+			DATA_CAD
+			SENHA
+			EMAIL
+			CELULAR
+			
+		CATEGORIAS
+			ID_CATEG
+			CATEGORIA
+		
+		PUBLICA
+			ID_PUBL
+			ID_USER
+			ID_CATEG
+			TITULO
+			TEXTO
+			PALAVRA_CHAVE
+			AUTOR
+
+		MIDIAS
+			ID_MID
+			ID_USER
+			ID_CATEG
+			TITULO
+			DESCRICAO
+			COD_VID_POD_IMG
+			
+			

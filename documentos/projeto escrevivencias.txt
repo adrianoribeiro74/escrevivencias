@@ -1,0 +1,36 @@
+ESCREVIVENCIAS.com.br
+
+	Criar o domínio 
+		URL - o endereço propriamente dito
+		www.escrevivencias.com.br
+
+	Definir a equipe
+		GERENTES
+			alunos
+		JORNALISTAS
+			alunos
+		DESIGNERS
+			alunos
+		PROGRAMADORES
+			alunos
+
+	Equipe de Professores
+		Jailma Ferreira - OPEE
+		Adriano Ribeiro - P COMP
+		Yata Anderson   - P COMP
+
+	Objetivo
+
+	MEtodologia
+
+	Cronograma
+
+	Materiais a serem usados
+
+	MAPA DO SITE
+	
+	GERAR RELATÓRIO PEDAGÓGICO E VIVÊNCIA
+		artigo
+
+
+		
